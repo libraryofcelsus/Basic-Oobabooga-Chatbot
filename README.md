@@ -13,7 +13,7 @@ If you want more code tutorials like this, follow me on github and youtube: http
 3. Open Git Bash Program
 4. Run git clone: **git clone https://github.com/libraryofcelsus/Basic-Oobabooga-Chatbot**
 5. Open the Command Line as admin and navigate to the project install folder with **cd <PATH TO INSTALL>**
-6. Create a virtual environment: python3 -m venv venv
+6. Create a virtual environment: python -m venv venv
 7. Activate the virtual enviornment with: .\venv\Scripts\activate
 8. Install the requirements with **pip install -r requirements.txt**
 9. Edit and set your username and chatbot name in the .txt files
