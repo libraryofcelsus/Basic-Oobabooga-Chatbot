@@ -7,6 +7,8 @@ If you want more code tutorials like this, follow me on github and youtube: http
 
 (Channel isn't launched yet, I have multiple scripts like this written, but am still working on a video production format.  Subscribe for its Launch!)
 
+In-Depth Tutorials available at: https://www.libraryofcelsus.com/research/public/code-tutorials/
+
 ## Window's Installation
 1. Install Git
 2. Install Python 3.10.6, Make sure you add it to PATH
